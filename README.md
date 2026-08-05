@@ -24,31 +24,12 @@ My work combines machine learning, mathematical optimization, NLP, computer visi
 
 ## Featured Projects
 
-### Quantitative Finance, Optimization & Decision Models
+Independent, end-to-end projects designed, built, and shipped solo.
 
-| Project                                                                                                        | Description                                                                                                                                                                                                                                                                                   | Stack                                               |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Portfolio & Investment Research**                                                                            | Ongoing work focused on online portfolio selection, backtesting, transaction costs, risk metrics, and realistic allocation constraints.                                                                                                                                                       | `Python` `Pandas` `NumPy` `Finance`                 |
-| **[Strength Training Optimizer](https://github.com/gonzalogarciame/strength-training-optimizer)**              | Personalized optimization model built with Pyomo to allocate training volume across goals, constraints, and session limits. Although applied to training, the core logic is constrained allocation, which is directly related to scheduling, resource allocation, and portfolio optimization. | `Python` `Jupyter Notebook` `Pyomo` `Optimization`  |
-| **[Discrete Mathematics Coursework](https://github.com/gonzalogarciame/discrete-mathematics-coursework-2024)** | Coursework covering modular arithmetic, RSA cryptography, and graph-based GPS routing, with useful foundations for algorithms, networks, routing, and quantitative problem solving.                                                                                                           | `Python` `Algorithms` `Graph Theory` `Cryptography` |
-
----
-
-### Machine Learning, NLP & Predictive Analytics
-
-| Project                                                                                                             | Description                                                                                                                                                                                                                                                                                            | Stack                                               |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| **[Football Commentary NLP](https://github.com/gonzalogarciame/football-commentary-nlp)**                           | End-to-end NLP pipeline for football match reports: sentiment/outcome prediction, named entity recognition, optional OCR, and alert generation. The project shows how unstructured text can be transformed into structured signals, a useful pattern for news analytics and financial text processing. | `Python` `NLP` `NER` `Sentiment Analysis` `OCR`     |
-| **[Student Performance Grade Prediction](https://github.com/gonzalogarciame/student-performance-grade-prediction)** | Regression-based machine learning project for predicting students' final grades from academic-performance features, focused on model comparison, feature analysis, and prediction quality.                                                                                                             | `Python` `Jupyter Notebook` `Scikit-learn` `Pandas` |
-
----
-
-### Computer Vision & Software Engineering
-
-| Project                                                                                         | Description                                                                                                                                           | Stack                             |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| **[Computer Vision Final Project](https://github.com/SantiCoAr/computer-vision-final-project)** | Real-time OpenCV system combining a visual password workflow with a two-player Snake game controlled by colored markers and Kalman-filtered tracking. | `Python` `OpenCV` `Kalman Filter` |
-| **[Clover Pit](https://github.com/gonzalogarciame/clover-pit)**                                 | Unity slot-machine game with weighted paylines, store upgrades, adaptive difficulty, and physics-based lever interaction.                             | `Unity` `C#` `ShaderLab`          |
+| Project                                                                                          | Description                                                                                                                                                                                                        | Stack                                                             |
+| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **[Options Pricing & Delta-Hedging Simulator](https://github.com/gonzalogarciame/options-pricing-delta-hedging)** | Python simulator for options pricing and delta-hedging combining Black-Scholes, binomial trees, and Monte Carlo methods, with Greeks, implied volatility, and hedging error analysis — a hands-on exploration of derivatives pricing and risk management. | `Python` `Black-Scholes` `Monte Carlo` `Binomial Trees` `Quantitative Finance` |
+| **[Shift Optimization — Fundación Proyecto Persona](https://github.com/gonzalogarciame/optimizacion-turnos-fpp)** | MILP-based shift scheduling optimizer built for a nonprofit's summer camps, using Pyomo with Gurobi/HiGHS and Excel as the source of truth, with a Streamlit interface so non-technical staff can run reoptimizations themselves. | `Python` `Pyomo` `Gurobi` `HiGHS` `Streamlit` `Optimization`      |
 
 ---
 
@@ -87,7 +68,7 @@ My work combines machine learning, mathematical optimization, NLP, computer visi
 
 ## Academic & Collaborative Work
 
-Alongside the public repositories on this profile, I have worked on academic and team-based projects involving:
+Alongside the two solo projects above, I have worked on academic and team-based projects involving:
 
 * supervised learning and predictive modeling,
 * NLP pipelines for classification, entity extraction, and alert generation,
@@ -98,6 +79,28 @@ Alongside the public repositories on this profile, I have worked on academic and
 * statistical analysis, dashboards, and visualization.
 
 Some projects were developed in private, shared, or university repositories, so this profile includes cleaned public versions where possible.
+
+### Quantitative Finance, Optimization & Decision Models
+
+| Project                                                                                                        | Description                                                                                                                                                                                                                                                                                   | Stack                                               |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **Portfolio & Investment Research**                                                                            | Ongoing work focused on online portfolio selection, backtesting, transaction costs, risk metrics, and realistic allocation constraints.                                                                                                                                                       | `Python` `Pandas` `NumPy` `Finance`                 |
+| **[Strength Training Optimizer](https://github.com/gonzalogarciame/strength-training-optimizer)**              | Personalized optimization model built with Pyomo to allocate training volume across goals, constraints, and session limits. Although applied to training, the core logic is constrained allocation, which is directly related to scheduling, resource allocation, and portfolio optimization. | `Python` `Jupyter Notebook` `Pyomo` `Optimization`  |
+| **[Discrete Mathematics Coursework](https://github.com/gonzalogarciame/discrete-mathematics-coursework-2024)** | Coursework covering modular arithmetic, RSA cryptography, and graph-based GPS routing, with useful foundations for algorithms, networks, routing, and quantitative problem solving.                                                                                                           | `Python` `Algorithms` `Graph Theory` `Cryptography` |
+
+### Machine Learning, NLP & Predictive Analytics
+
+| Project                                                                                                             | Description                                                                                                                                                                                                                                                                                            | Stack                                               |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
+| **[Football Commentary NLP](https://github.com/gonzalogarciame/football-commentary-nlp)**                           | End-to-end NLP pipeline for football match reports: sentiment/outcome prediction, named entity recognition, optional OCR, and alert generation. The project shows how unstructured text can be transformed into structured signals, a useful pattern for news analytics and financial text processing. | `Python` `NLP` `NER` `Sentiment Analysis` `OCR`     |
+| **[Student Performance Grade Prediction](https://github.com/gonzalogarciame/student-performance-grade-prediction)** | Regression-based machine learning project for predicting students' final grades from academic-performance features, focused on model comparison, feature analysis, and prediction quality.                                                                                                             | `Python` `Jupyter Notebook` `Scikit-learn` `Pandas` |
+
+### Computer Vision & Software Engineering
+
+| Project                                                                                         | Description                                                                                                                                           | Stack                             |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+| **[Computer Vision Final Project](https://github.com/SantiCoAr/computer-vision-final-project)** | Real-time OpenCV system combining a visual password workflow with a two-player Snake game controlled by colored markers and Kalman-filtered tracking. | `Python` `OpenCV` `Kalman Filter` |
+| **[Clover Pit](https://github.com/gonzalogarciame/clover-pit)**                                 | Unity slot-machine game with weighted paylines, store upgrades, adaptive difficulty, and physics-based lever interaction.                             | `Unity` `C#` `ShaderLab`          |
 
 ---
 
