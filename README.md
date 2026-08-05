@@ -14,7 +14,6 @@ My work combines machine learning, mathematical optimization, NLP, computer visi
 ## Current Focus
 
 * Quantitative finance, portfolio construction, and algorithmic investment strategies
-* Investment-banking analytics: valuation support, market screening, comparable analysis, and financial research
 * Machine learning for prediction, classification, and decision support
 * Optimization under real-world constraints
 * NLP for information extraction, entity recognition, and alert generation
@@ -84,7 +83,6 @@ Some projects were developed in private, shared, or university repositories, so 
 
 | Project                                                                                                        | Description                                                                                                                                                                                                                                                                                   | Stack                                               |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **Portfolio & Investment Research**                                                                            | Ongoing work focused on online portfolio selection, backtesting, transaction costs, risk metrics, and realistic allocation constraints.                                                                                                                                                       | `Python` `Pandas` `NumPy` `Finance`                 |
 | **[Strength Training Optimizer](https://github.com/gonzalogarciame/strength-training-optimizer)**              | Personalized optimization model built with Pyomo to allocate training volume across goals, constraints, and session limits. Although applied to training, the core logic is constrained allocation, which is directly related to scheduling, resource allocation, and portfolio optimization. | `Python` `Jupyter Notebook` `Pyomo` `Optimization`  |
 | **[Discrete Mathematics Coursework](https://github.com/gonzalogarciame/discrete-mathematics-coursework-2024)** | Coursework covering modular arithmetic, RSA cryptography, and graph-based GPS routing, with useful foundations for algorithms, networks, routing, and quantitative problem solving.                                                                                                           | `Python` `Algorithms` `Graph Theory` `Cryptography` |
 
