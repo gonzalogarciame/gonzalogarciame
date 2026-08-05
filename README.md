@@ -11,16 +11,6 @@ My work combines machine learning, mathematical optimization, NLP, computer visi
 
 ---
 
-## Current Focus
-
-* Quantitative finance, portfolio construction, and algorithmic investment strategies
-* Machine learning for prediction, classification, and decision support
-* Optimization under real-world constraints
-* NLP for information extraction, entity recognition, and alert generation
-* Dashboards, reporting, and analytical storytelling
-
----
-
 ## Featured Projects
 
 Independent, end-to-end projects designed, built, and shipped solo.
@@ -79,7 +69,7 @@ Alongside the two solo projects above, I have worked on academic and team-based 
 
 Some projects were developed in private, shared, or university repositories, so this profile includes cleaned public versions where possible.
 
-### Quantitative Finance, Optimization & Decision Models
+### Optimization & Decision Models
 
 | Project                                                                                                        | Description                                                                                                                                                                                                                                                                                   | Stack                                               |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
