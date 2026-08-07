@@ -17,7 +17,10 @@ Independent, end-to-end projects designed, built, and shipped solo.
 
 | Project                                                                                          | Description                                                                                                                                                                                                        | Stack                                                             |
 | -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| **[Options Pricing & Delta-Hedging Simulator](https://github.com/gonzalogarciame/options-pricing-delta-hedging)** | Python simulator for options pricing and delta-hedging combining Black-Scholes, binomial trees, and Monte Carlo methods, with Greeks, implied volatility, and hedging error analysis — a hands-on exploration of derivatives pricing and risk management. | `Python` `Black-Scholes` `Monte Carlo` `Binomial Trees` `Quantitative Finance` |
+| **[Options Pricing Simulator](https://github.com/gonzalogarciame/options-pricing-simulator)** | Prices a real SPY option three ways — Black-Scholes, Monte Carlo, and a CRR binomial tree — cross-checks them against each other, computes Greeks closed-form vs. finite-difference, and compares the methods on speed and use case. | `Python` `Black-Scholes` `Monte Carlo` `Binomial Trees` `Greeks` `Quantitative Finance` |
+| **[Delta-Hedging Simulator](https://github.com/gonzalogarciame/delta-hedging-simulator)** | Simulates day-by-day delta-hedging of a real SPY call option and measures how the realized hedging error diverges from Black-Scholes theory, across thousands of Monte Carlo price paths. | `Python` `Delta-Hedging` `Monte Carlo` `Black-Scholes` `Risk Management` |
+| **[Portfolio Risk & Performance Tracker](https://github.com/gonzalogarciame/portfolio-risk-performance-tracker)** | Python CLI that pulls a configured portfolio's prices from Yahoo Finance and reports risk/performance metrics against a benchmark: Sharpe, Sortino, Calmar, Information Ratio, max drawdown, historical & parametric VaR, and CVaR. | `Python` `yfinance` `Risk Management` `Performance Analytics` |
+| **[OLPS Benchmarks](https://github.com/gonzalogarciame/olps-benchmarks)** | Online Portfolio Selection algorithms and benchmarks in Python, following Li & Hoi's *Online Portfolio Selection: Principles and Algorithms*. Early stage: data pipeline and Buy-and-Hold in place, with CRP, UP, EG, and ONS to follow. | `Python` `Portfolio Optimization` `Online Learning` |
 | **[Shift Optimization — Fundación Proyecto Persona](https://github.com/gonzalogarciame/optimizacion-turnos-fpp)** | MILP-based shift scheduling optimizer built for a nonprofit's summer camps, using Pyomo with Gurobi/HiGHS and Excel as the source of truth, with a Streamlit interface so non-technical staff can run reoptimizations themselves. | `Python` `Pyomo` `Gurobi` `HiGHS` `Streamlit` `Optimization`      |
 
 ---
@@ -57,7 +60,7 @@ Independent, end-to-end projects designed, built, and shipped solo.
 
 ## Academic & Collaborative Work
 
-Alongside the two solo projects above, I have worked on academic and team-based projects involving:
+Alongside the solo projects above, I have worked on academic and team-based projects involving:
 
 * supervised learning and predictive modeling,
 * NLP pipelines for classification, entity extraction, and alert generation,
